@@ -56,3 +56,15 @@ docs/_build/
 
 # PyBuilder
 target/
+
+movigrama_chart\.html
+
+dados\.pkl
+
+/app_config.ini
+
+SIO_central\.html
+
+complements\.pkl
+
+test\.py
